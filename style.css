@@ -14,7 +14,6 @@ body{
 .card{
   width: 90%; 
   max-width: 500px; 
-  /* background: linear-gradient(135deg,#00feba,#5b548a); */
   color: #fff;
   border: 5px white solid;
   margin: 100px auto 0;
@@ -101,15 +100,3 @@ body{
     display: none;
 }
 
-/* 
-LINKS
------
-
-Cloudy day:  https://img.icons8.com/?size=100&id=DFREO1i3Tfa8&format=png&color=000000
-Rainy day:  https://img.icons8.com/?size=100&id=QApkqtngP0RV&format=png&color=000000
-Snow:  https://img.icons8.com/?size=100&id=hz3IyqvNkSYX&format=png&color=000000
-Sunny day:  https://img.icons8.com/?size=100&id=xWIZQJTeNHmJ&format=png&color=000000
-Storm:  https://img.icons8.com/?size=100&id=ezR5QOXjCIPR&format=png&color=000000
-Wind icon:  https://img.icons8.com/?size=100&id=XNMn9wVFp8dJ&format=png&color=000000
-Humidity icon:  https://img.icons8.com/?size=100&id=xB2SHgRWLPwy&format=png&color=000000
-*/
